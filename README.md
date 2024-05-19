@@ -25,8 +25,8 @@ Delay between sending requests: 100(ms)
 Logging enabled: 1. If true, prints additional information to console
 Start sending ...
 [thread:140334287365888][conn:0] message sent ok
-[thread:140334295758592][conn:0] Connected to the server at a010.casalemedia.com:80, 
-[thread:140334295758592][conn:1] Connected to the server at a010.casalemedia.com:80, 
+[thread:140334295758592][conn:0] Connected to the server at server001.company.com:80, 
+[thread:140334295758592][conn:1] Connected to the server at server001.company.com:80, 
 [thread:140334287365888][conn:0] Response received: HTTP/1.1 204 No Content
 [thread:140334287365888][conn:0] message sent ok
 [thread:140334295758592][conn:0] Response received: HTTP/1.1 204 No Content
